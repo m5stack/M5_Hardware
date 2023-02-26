@@ -1,6 +1,6 @@
 # M5Stack KiCad Library
 
-**The libraries in this repository are intended to be used with KiCad version 6.**
+**The libraries in this repository are intended to be used with KiCad version 7.**
 
 Each footprint library is stored as a directory with the .pretty suffix. The footprint files are .kicad_mod files within. And 3D model files is stored in the ``M5KiCad.3d`` folder.
 
