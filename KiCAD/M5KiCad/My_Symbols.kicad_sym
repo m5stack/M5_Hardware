@@ -60,7 +60,7 @@
         (number "16" (effects (font (size 1.27 1.27))))
       )
       (pin bidirectional line (at -33.02 -5.08 0) (length 2.54)
-        (name "A2CH4/TCH1/GPIO1/SCL" (effects (font (size 1.27 1.27))))
+        (name "A2CH4/TCH1/GPIO15/SCL" (effects (font (size 1.27 1.27))))
         (number "17" (effects (font (size 1.27 1.27))))
       )
       (pin power_in line (at 2.54 -41.91 90) (length 2.54)
