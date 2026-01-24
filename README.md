@@ -7,7 +7,7 @@ Welcome to the M5Stack open-source hardware repository! This repository contains
 ## 📁 Directory Structure
 
 ```
-M5_Hardware_New/
+M5_Hardware/
 ├── Common/              # Common module designs (Atomic, Module, Unit types)
 ├── Products/            # Product designs organized by SKU
 │   ├── [SKU_Name]/

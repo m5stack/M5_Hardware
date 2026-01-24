@@ -7,7 +7,7 @@
 ## 📁 目录结构
 
 ```
-M5_Hardware_New/
+M5_Hardware/
 ├── Common/              # 通用模块设计（Atomic、Module、Unit 类型）
 ├── Products/            # 具体到 SKU 的产品设计文件
 │   ├── [SKU_Name]/
