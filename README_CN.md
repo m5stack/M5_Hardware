@@ -11,7 +11,7 @@ M5_Hardware/
 ├── Common/              # 通用模块设计（Atomic、Module、Unit 类型）
 ├── Products/            # 具体到 SKU 的产品设计文件
 │   ├── [SKU_Name]/
-│   │   ├── PCB/        # PCB 设计文件
+│   │   ├── Footprints/        # Footprints 设计文件
 │   │   └── Structures/ # 2D/3D 结构文件
 │   └── ...
 ├── KiCad/              # KiCad 库文件

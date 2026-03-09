@@ -11,7 +11,7 @@ M5_Hardware/
 ├── Common/              # Common module designs (Atomic, Module, Unit types)
 ├── Products/            # Product designs organized by SKU
 │   ├── [SKU_Name]/
-│   │   ├── PCB/        # PCB design files
+│   │   ├── Footprints/        # PCB design files
 │   │   └── Structures/ # 2D/3D structure files
 │   └── ...
 ├── KiCad/              # KiCad library files
